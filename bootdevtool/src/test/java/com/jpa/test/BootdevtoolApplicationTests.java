@@ -8,6 +8,7 @@ class BootdevtoolApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.print("hello");
 	}
 
 }
